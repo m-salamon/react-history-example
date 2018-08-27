@@ -5,6 +5,5 @@ Feel free to use and share
 
 Usage
 1. clone the repository
-2. `cd frontend`
-3. `npm i`
-4. `npm start`
+2. `npm i`
+3. `npm start`
