@@ -8,5 +8,7 @@ Usage
 2. `npm i`
 3. `npm start`
 
+
 Example:
+
 https://react-history-example.herokuapp.com/
